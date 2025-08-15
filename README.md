@@ -51,7 +51,7 @@
 
 1.  **克隆或下载本项目**
     ```bash
-    git clone [https://github.com/your-username/SpatialPalette.git](https://github.com/your-username/SpatialPalette.git)
+    git clone [https://github.com/your-username/SpatialPalette.git](https://github.com/yinboliu-git/SpatialPalette)
     cd SpatialPalette
     ```
 
