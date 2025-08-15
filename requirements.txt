@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+Pillow
+scipy
+scikit-learn
+ipywidgets
+ipyfilechooser
+jupyterlab
+ipympl
