@@ -8,7 +8,7 @@
 **An all-in-one Jupyter-based platform for semi-automatic annotation and interactive correction of spatial tissue maps.**
 
 ---
-`![SpatialPalette Demo](docs/app.gif)`
+![SpatialPalette Demo](docs/app.gif)
 
 ## 📖 简介 (Introduction)
 
